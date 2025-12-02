@@ -64,17 +64,5 @@ You can run it locally with any stack like XAMPP / MAMP / WAMP.
 
 ---
 
-## 🚀 How to Run Locally
-
-1. Clone or download this repository into your web server directory (e.g. `htdocs`).
-2. Make sure MySQL is running.
-3. Update database credentials in `config.php` if needed.
-4. Open your browser and go to:
-
-   ```text
-   http://localhost/your-folder-name/index.php
-
----
-
    ## 🏫 Designed as a university project 
 
