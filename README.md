@@ -74,6 +74,6 @@ You can run it locally with any stack like XAMPP / MAMP / WAMP.
    ```text
    http://localhost/your-folder-name/index.php
 
---
+---
 
    ## 🏫 Designed as a university project 
