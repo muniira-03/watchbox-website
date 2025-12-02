@@ -77,3 +77,4 @@ You can run it locally with any stack like XAMPP / MAMP / WAMP.
 ---
 
    ## 🏫 Designed as a university project 
+
